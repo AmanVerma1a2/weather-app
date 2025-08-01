@@ -4,6 +4,7 @@ A modern weather application built with React and Vite that provides real-time w
 
 ![alt text](Capture.PNG)
 
+
 ## ✨ Features
 
 - 🌍 Global weather data with beautiful UI
